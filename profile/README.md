@@ -1,8 +1,7 @@
 ## Hi there 👋 We're 'The Inevitables'
 
-
-
-**Here are some ideas to get you started:**
+![Team inevitables](https://a-static.besthdwallpaper.com/penguins-of-madagascar-plucky-penguins-wallpaper-4320x1440-14052_107.jpg)
+**Kowalski, status report:**
 
 ## What are we? 🧙
 
