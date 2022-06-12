@@ -8,7 +8,7 @@
 
 Seems like we have to define ourselves in here!
 
-- ⚡ Fun fact: I ❤️ hackathons
+- ⚡ Fun fact: we ❤️ hackathons
 
 **Team Members:**
 - 🧙 [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/) 
