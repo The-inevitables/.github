@@ -8,6 +8,8 @@
 
 Seems like we have to define ourselves in here!
 
+- ⚡ Fun fact: I ❤️ hackathons
+
 **Team Members:**
 - 🧙 [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/) 
 - 🧙 [Akshay V Anil](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
@@ -27,4 +29,4 @@ Seems like we have to define ourselves in here!
 ## Featured Articles
 
 
-## Upcoming Ideas
+## Works in progress
