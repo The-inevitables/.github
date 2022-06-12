@@ -9,6 +9,8 @@ Seems like we have to define ourselves in here!
 
 - ⚡ Fun fact: we ❤️ hackathons
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=The-inevitables"/>
+
 **Team Members:**
 - 🧙 [Arjun Raj](https://www.linkedin.com/in/arjun-raj-pala/) 
 - 🧙 [Akshay V Anil](https://www.linkedin.com/in/akshay-v-anil-8691ba7b/)
