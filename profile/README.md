@@ -35,6 +35,7 @@
 | 6 | The World After Covid-19 by KPMG Malta | 2021  | -  | Top 50   |
 | 7 | International Fraud Group Hackathon | 2022  | Analysis Hub: data management solution  | Top 6  |
 | 8 | Cloud Fest Hackathon 1 By Google Cloud | 2022  | Hello Harvest project : agriculture supply chain solution   | 2nd prize  |
+| 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
 
 ## 🍿 Featured Articles
 - [Azure Developer League Hackathon by Microsoft in 2021](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
