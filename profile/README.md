@@ -38,6 +38,7 @@
 | 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
 
 ## 🍿 Featured Articles
+- [Cloud Fest Hackathon 1 by Google Cloud](https://www.hackerearth.com/challenges/hackathon/cloud-fest-hackathon-i-presented-by-google-cloud/)
 - [Azure Developer League Hackathon by Microsoft in 2021](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
 - [Honor Badge by Weavy for Collaboration Hacakthon by Weavy in 2020](https://www.weavy.com/developer/hackathons/collabhack20/collabhack20-theinevitables)
 - [Build Tommorrow Hackathon by weavy in 2021](https://www.weavy.com/developer/hackathons/buildtmr21-the-inevitables)
