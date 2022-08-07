@@ -51,6 +51,11 @@ coming soon...
 
 - [converterwidgets](https://myconverterwidgets.herokuapp.com/)
 
+---
+## 🍿 Our Blogs
+
+Coming Soon!!
+
 ## 🍿 Works in progress
 Aah..seems like it is  empty for now! Come back later!
 
