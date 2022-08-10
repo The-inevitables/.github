@@ -54,7 +54,7 @@ coming soon...
 ---
 ## 🍿 Our Blogs
 
-Coming Soon!!
+- [Install Java silently using powershell in Azure Windows VM](https://tech-inevitables.blogspot.com/2022/08/install-java-silently-using-powershell.html)
 
 ## 🍿 Works in progress
 Aah..seems like it is  empty for now! Come back later!
