@@ -5,7 +5,8 @@
 
 ## What are we? 🧙
 
-*Seems like we have to define ourselves in here!*
+*A group of techies trying to solve complex problems by participating in various hackthons and trying to bring ideas to life.* <br/>
+We constantly look for new challenges and topics rather than fixating on the tech stack we know. And of course, the ultimate aim is to give something back to society.
 
 - ⚡ Fun fact: we ❤️ hackathons
 
@@ -22,6 +23,7 @@
 - Won Build Tommorrow 2021 by Weavy (2nd Prize)
 - Won Honor Badge in Colloboration Hack 2020 by Weavy
 - Won Google Cloud Hackathon 1, 2022 by Google Cloud (1st Runner Up)
+- Won special prize in Rakathon'22 by Rakuten in 2022 (top 10 finalist)
 
 ## ⚡ Hackathon Status
 
@@ -42,10 +44,10 @@
 - [Azure Developer League Hackathon by Microsoft in 2021](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
 - [Honor Badge by Weavy for Collaboration Hacakthon by Weavy in 2020](https://www.weavy.com/developer/hackathons/collabhack20/collabhack20-theinevitables)
 - [Build Tommorrow Hackathon by weavy in 2021](https://www.weavy.com/developer/hackathons/buildtmr21-the-inevitables)
-
+- [Special Prize in Rakathon'22 by Rakuten in 2022](https://xathon.mettl.com/event/Rakathon_22)
 ---
 ##  🍿 Our Main Projects
-coming soon...
+It's classified. JK, it's empty for now! ;)
 
 ## 🍿 Small Static websites
 
