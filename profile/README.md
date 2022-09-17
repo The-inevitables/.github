@@ -50,7 +50,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 ---
 ##  🍿 Our Main Projects
 
-Most of the projects which we feel that can be implemented on a large scale/open source will be listed here.
+Most of the projects which we feel like that can be implemented on a large scale/open source will be listed here.
 
 | Sl No | Project Name  | Description | Tech Stack | Git Link | Demo Link |
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |
@@ -60,7 +60,7 @@ Most of the projects which we feel that can be implemented on a large scale/open
 | 4 | Project Overwatch | ----------- | ----------- | ----------- |----------- |
 
 ## 🍿 Small Static websites
-
+Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
 - [converterwidgets](https://myconverterwidgets.herokuapp.com/)
 
 ---
