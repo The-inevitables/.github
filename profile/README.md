@@ -28,7 +28,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 
 ## ⚡ Hackathon Status
 
-| Sl No | Hackathon Name | Year | Project | Result |
+| **Sl No** | **Hackathon Name** | **Year** | **Project** | **Result** |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 |  UST Global d3code Campus Hackathon'19|  2019 | Basic Social Media App  | Top 15   |
 | 2 | Reboot Kerala Hackathon |  2020 | Automatic answersheet solver using ML | Top 5  |
@@ -41,6 +41,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 | 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
 
 ## 🍿 Featured Articles
+
 - [Cloud Fest Hackathon 1 by Google Cloud](https://www.hackerearth.com/challenges/hackathon/cloud-fest-hackathon-i-presented-by-google-cloud/)
 - [Azure Developer League Hackathon by Microsoft in 2021](https://www.hackerearth.com/challenges/hackathon/azure-developer-league-hackathon/?utm_source=challenges-modern&utm_campaign=registered-challenges&utm_medium=right-panel)
 - [Honor Badge by Weavy for Collaboration Hacakthon by Weavy in 2020](https://www.weavy.com/developer/hackathons/collabhack20/collabhack20-theinevitables)
@@ -48,7 +49,15 @@ We constantly look for new challenges and topics rather than fixating on the tec
 - [Special Prize in Rakathon'22 by Rakuten in 2022](https://xathon.mettl.com/event/Rakathon_22)
 ---
 ##  🍿 Our Main Projects
-It's classified. JK, it's empty for now! ;)
+
+Most of the projects which we feel that can be implemented on a large scale/open source will be listed here.
+
+| Sl No | Project Name  | Description | Tech Stack | Git Link | Demo Link |
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- |
+| 1 | Life-Line | ----------- | ----------- | ----------- |----------- |
+| 2 | Project Horizon | ----------- | ----------- | ----------- |----------- |
+| 3 | Hello-Harvest Project | ----------- | ----------- | ----------- |----------- |
+| 4 | Project Overwatch | ----------- | ----------- | ----------- |----------- |
 
 ## 🍿 Small Static websites
 
@@ -60,7 +69,7 @@ It's classified. JK, it's empty for now! ;)
 - [Install Java silently using powershell in Azure Windows VM](https://tech-inevitables.blogspot.com/2022/08/install-java-silently-using-powershell.html)
 
 ## 🍿 Works in progress
-Aah..seems like it is  empty for now! Come back later!
+Its classfied. JK, we will update this later.
 
 
 
