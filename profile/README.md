@@ -67,6 +67,7 @@ Bored of the large complex projects?, simple static webapps are here for the res
 ## 🍿 Our Blogs
 
 - [Install Java silently using powershell in Azure Windows VM](https://tech-inevitables.blogspot.com/2022/08/install-java-silently-using-powershell.html)
+- [ Introduction to MongoDB ](https://tech-inevitables.blogspot.com/2022/09/MongoDB.html)
 
 ## 🍿 Works in progress
 Its classfied. JK, we will update this later.
