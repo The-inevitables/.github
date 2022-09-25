@@ -35,7 +35,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 | 3 |  Collaboration Hackathon by Weavy| 2020  | Healthcare  | 4th place   |
 | 4 | Azure Developer League Hackathon by Microsoft | 2021   | Life-Line: Hospital Management solution  | 1st Prize  |
 | 5 |  Build Tomorrow by Weavy | 2021  | Horizon: a virtual classroom  | 2nd prize  |
-| 6 | The World After Covid-19 by KPMG Malta | 2021  | Project Horizon  | Top 50   |
+| 6 | The World After Covid-19 by KPMG Malta | 2021  | Project New Dawn  | Top 50   |
 | 7 | International Fraud Group Hackathon | 2022  | Analysis Hub: data management solution  | Top 6  |
 | 8 | Cloud Fest Hackathon 1 By Google Cloud | 2022  | Hello Harvest project : agriculture supply chain solution   | 2nd prize  |
 | 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
