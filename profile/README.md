@@ -49,6 +49,22 @@ We constantly look for new challenges and topics rather than fixating on the tec
 - [Build Tommorrow Hackathon by weavy in 2021](https://www.weavy.com/developer/hackathons/buildtmr21-the-inevitables)
 - [Special Prize in Rakathon'22 by Rakuten in 2022](https://xathon.mettl.com/event/Rakathon_22)
 ---
+
+## 🍿 Our Blogs
+
+#### Azure DevOps
+
+- [Getting the complete list of Repository names and details in Azure DevOps Project and Publishing as a CSV file using an ADO pipeline](https://tech-inevitables.blogspot.com/2022/10/list-of-repos-in-azure-devops-project.html)
+- [Pull Request Validation Pipeline in Azure DevOps](https://tech-inevitables.blogspot.com/2022/10/pull-request-validation-pipeline-for.html)
+- [Configure an Azure DevOps self-hosted Windows agent in Docker](https://tech-inevitables.blogspot.com/2022/10/configure-azure-devops-self-hosted.html)
+
+#### Full Stack Development
+
+- [Install Java silently using powershell in Azure Windows VM](https://tech-inevitables.blogspot.com/2022/08/install-java-silently-using-powershell.html)
+- [ Introduction to MongoDB ](https://tech-inevitables.blogspot.com/2022/09/MongoDB.html)
+
+
+---
 ##  🍿 Our Main Projects
 
 Most of the projects which we feel like that can be implemented on a large scale/open source will be listed here.
@@ -65,20 +81,6 @@ Bored of the large complex projects?, simple static webapps are here for the res
 - [converterwidgets](https://myconverterwidgets.herokuapp.com/)
 
 ---
-## 🍿 Our Blogs
-
-#### Full Stack Development
-
-- [Install Java silently using powershell in Azure Windows VM](https://tech-inevitables.blogspot.com/2022/08/install-java-silently-using-powershell.html)
-- [ Introduction to MongoDB ](https://tech-inevitables.blogspot.com/2022/09/MongoDB.html)
-
-#### Azure Devops
-
-- [Getting the complete list of Repository names and details in Azure DevOps Project and Publishing as a CSV file using an ADO pipeline](https://tech-inevitables.blogspot.com/2022/10/list-of-repos-in-azure-devops-project.html)
-- [Pull Request Validation Pipeline in Azure DevOps](https://tech-inevitables.blogspot.com/2022/10/pull-request-validation-pipeline-for.html)
-- [Configure an Azure DevOps self-hosted Windows agent in Docker
-](https://tech-inevitables.blogspot.com/2022/10/configure-azure-devops-self-hosted.html)
-
 ## 🍿 Works in progress
 Its classfied. JK, we will update this later.
 
