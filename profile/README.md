@@ -78,7 +78,7 @@ Most of the projects which we feel like that can be implemented on a large scale
 
 ## 🍿 Small Static websites
 Bored of the large complex projects?, simple static webapps are here for the rescue. Most of the sites are pretty basic on the functionality perspective.
-- [converterwidgets](https://myconverterwidgets.herokuapp.com/)
+- [Simple Convertor React website](https://myconverterwidgets.herokuapp.com/)
 
 ---
 ## 🍿 Works in progress
