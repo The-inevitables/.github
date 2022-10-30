@@ -39,6 +39,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 | 7 | International Fraud Group Hackathon | 2022  | Analysis Hub: data management solution  | Top 6  |
 | 8 | Cloud Fest Hackathon 1 By Google Cloud | 2022  | Hello Harvest project : agriculture supply chain solution   | 2nd prize  |
 | 9 | Rakathon'22 by Rakuten | 2022 | --- | Top 10 |
+| 10 | Striking Balance 2022 by Weavy | 2022 | Framebox | 3rd Prize |
 
 ## 🍿 Featured Articles
 
@@ -75,6 +76,8 @@ Bored of the large complex projects?, simple static webapps are here for the res
 
 - [Getting the complete list of Repository names and details in Azure DevOps Project and Publishing as a CSV file using an ADO pipeline](https://tech-inevitables.blogspot.com/2022/10/list-of-repos-in-azure-devops-project.html)
 - [Pull Request Validation Pipeline in Azure DevOps](https://tech-inevitables.blogspot.com/2022/10/pull-request-validation-pipeline-for.html)
+- [Configure an Azure DevOps self-hosted Windows agent in Docker
+](https://tech-inevitables.blogspot.com/2022/10/configure-azure-devops-self-hosted.html)
 
 ## 🍿 Works in progress
 Its classfied. JK, we will update this later.
