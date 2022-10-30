@@ -5,7 +5,7 @@
 
 ## What are we? 🧙
 
-*A group of techies trying to solve complex problems by participating in various hackthons and trying to bring ideas to life.* <br/>
+*A group of techies who loves to solve complex problems by participating in various hackthons and trying to bring ideas to life.* <br/>
 We constantly look for new challenges and topics rather than fixating on the tech stack we know. And of course, the ultimate aim is to give something back to society.
 
 - ⚡ Fun fact: we ❤️ hackathons
