@@ -58,6 +58,7 @@ We constantly look for new challenges and topics rather than fixating on the tec
 - [Pull Request Validation Pipeline in Azure DevOps](https://tech-inevitables.blogspot.com/2022/10/pull-request-validation-pipeline-for.html)
 - [Configure an Azure DevOps self-hosted Windows agent in Docker](https://tech-inevitables.blogspot.com/2022/10/configure-azure-devops-self-hosted.html)
 - [Usage of Variable Template in Azure DevOps Pipelines](https://tech-inevitables.blogspot.com/2022/11/usage-of-variable-template-in-azure.html)
+- [Job Access Tokens || Authorize REST API calls to access resources in ADO using Job Access Tokens](https://tech-inevitables.blogspot.com/2022/11/job-access-tokens-authorize-rest-api.html)
 
 #### Full Stack Development
 
