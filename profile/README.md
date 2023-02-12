@@ -54,6 +54,8 @@ We constantly look for new challenges and topics rather than fixating on the tec
 
 #### Azure DevOps
 
+- [CI/CD pipeline for data movement from Azure Repository to ADLS](https://tech-inevitables.blogspot.com/2023/01/cicd-pipeline-for-data-movement-from.html)
+- [List of Repositories - Authorize Rest API calls using Job Access Token](https://tech-inevitables.blogspot.com/2022/12/list-of-repositories-authorize-rest-api.html)
 - [Getting the complete list of Repository names and details in Azure DevOps Project and Publishing as a CSV file using an ADO pipeline](https://tech-inevitables.blogspot.com/2022/10/list-of-repos-in-azure-devops-project.html)
 - [Pull Request Validation Pipeline in Azure DevOps](https://tech-inevitables.blogspot.com/2022/10/pull-request-validation-pipeline-for.html)
 - [Configure an Azure DevOps self-hosted Windows agent in Docker](https://tech-inevitables.blogspot.com/2022/10/configure-azure-devops-self-hosted.html)
